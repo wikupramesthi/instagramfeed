@@ -1,2 +1,2 @@
 # instagramfeed
-Widget Embed Instagram Feed
+Change URL data-instgrm-permalink 
